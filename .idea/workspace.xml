@@ -4,42 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00d5db73-8771-4119-a7e0-fa4b2b7948a9" name="Changes" comment="pasar de carpeta">
+    <list default="true" id="00d5db73-8771-4119-a7e0-fa4b2b7948a9" name="Changes" comment="vuelta a la normalidad">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Indice/dirIndex/bestiasMkPHP.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Indice/dirIndex/combatePHP.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Indice/dirIndex/deseoPHP.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Indice/dirIndex/dicePHP.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Indice/dirIndex/dificultadPHP.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Indice/dirIndex/distanciasPHP.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Indice/dirIndex/glosarioPHP.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Indice/dirIndex/itemsMkPHP.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Indice/dirIndex/poderesPHP.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Indice/dirIndex/reglasPHP.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Indice/dirIndex/tiendasPHP.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Indice/dirIndex/turnosPHP.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Indice/dirNAV/ARQUETIPOS.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Indice/dirNAV/CALCULADORAS.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Indice/dirNAV/ESTADISTICAS.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Indice/dirNAV/IMG.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Indice/dirNAV/MUNDOS.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Indice/dirNAV/POKEMONS.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Indice/dirNAV/RULETAS.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Indice/dirNAV/STANDS.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Indice/dirNAV/TECNICAS.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Indice/dirNAV/dirArquetipos/bullethellPHP.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Indice/dirNAV/dirArquetipos/elementosPHP.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Indice/dirNAV/dirArquetipos/forcePHP.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Indice/dirNAV/dirArquetipos/magoPHP.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Indice/dirNAV/dirArquetipos/psiquicosPHP.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Indice/dirNAV/dirArquetipos/quirksPHP.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Indice/dirNAV/dirEstadisticas/statsPHP.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Indice/dirNAV/dirEstadisticas/titulosPHP.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Indice/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Indice/navPHP.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Reutilizar/nav.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642997852952</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="vuelta a la normalidad">
+      <created>1642998467388</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1642998467388</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -204,6 +177,7 @@
     <MESSAGE value="carpeta /Indice a /docs" />
     <MESSAGE value="carpeta /docs a /Indice" />
     <MESSAGE value="pasar de carpeta" />
-    <option name="LAST_COMMIT_MESSAGE" value="pasar de carpeta" />
+    <MESSAGE value="vuelta a la normalidad" />
+    <option name="LAST_COMMIT_MESSAGE" value="vuelta a la normalidad" />
   </component>
 </project>
