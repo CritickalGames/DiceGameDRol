@@ -4,42 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00d5db73-8771-4119-a7e0-fa4b2b7948a9" name="Changes" comment="carpeta /docs a /Indice">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/public/.gitignore" afterDir="false" />
+    <list default="true" id="00d5db73-8771-4119-a7e0-fa4b2b7948a9" name="Changes" comment="pasar de carpeta">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Indice/dirIndex/bestiasMkPHP.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/Indice/dirIndex/bestiasMkPHP.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Indice/dirIndex/combatePHP.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/Indice/dirIndex/combatePHP.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Indice/dirIndex/deseoPHP.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/Indice/dirIndex/deseoPHP.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Indice/dirIndex/dicePHP.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/Indice/dirIndex/dicePHP.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Indice/dirIndex/dificultadPHP.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/Indice/dirIndex/dificultadPHP.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Indice/dirIndex/distanciasPHP.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/Indice/dirIndex/distanciasPHP.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Indice/dirIndex/glosarioPHP.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/Indice/dirIndex/glosarioPHP.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Indice/dirIndex/itemsMkPHP.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/Indice/dirIndex/itemsMkPHP.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Indice/dirIndex/poderesPHP.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/Indice/dirIndex/poderesPHP.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Indice/dirIndex/reglasPHP.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/Indice/dirIndex/reglasPHP.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Indice/dirIndex/tiendasPHP.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/Indice/dirIndex/tiendasPHP.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Indice/dirIndex/turnosPHP.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/Indice/dirIndex/turnosPHP.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Indice/dirNAV/ARQUETIPOS.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/Indice/dirNAV/ARQUETIPOS.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Indice/dirNAV/CALCULADORAS.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/Indice/dirNAV/CALCULADORAS.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Indice/dirNAV/ESTADISTICAS.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/Indice/dirNAV/ESTADISTICAS.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Indice/dirNAV/IMG.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/Indice/dirNAV/IMG.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Indice/dirNAV/MUNDOS.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/Indice/dirNAV/MUNDOS.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Indice/dirNAV/POKEMONS.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/Indice/dirNAV/POKEMONS.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Indice/dirNAV/RULETAS.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/Indice/dirNAV/RULETAS.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Indice/dirNAV/STANDS.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/Indice/dirNAV/STANDS.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Indice/dirNAV/TECNICAS.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/Indice/dirNAV/TECNICAS.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Indice/dirNAV/dirArquetipos/bullethellPHP.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/Indice/dirNAV/dirArquetipos/bullethellPHP.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Indice/dirNAV/dirArquetipos/elementosPHP.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/Indice/dirNAV/dirArquetipos/elementosPHP.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Indice/dirNAV/dirArquetipos/forcePHP.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/Indice/dirNAV/dirArquetipos/forcePHP.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Indice/dirNAV/dirArquetipos/magoPHP.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/Indice/dirNAV/dirArquetipos/magoPHP.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Indice/dirNAV/dirArquetipos/psiquicosPHP.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/Indice/dirNAV/dirArquetipos/psiquicosPHP.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Indice/dirNAV/dirArquetipos/quirksPHP.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/Indice/dirNAV/dirArquetipos/quirksPHP.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Indice/dirNAV/dirEstadisticas/statsPHP.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/Indice/dirNAV/dirEstadisticas/statsPHP.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Indice/dirNAV/dirEstadisticas/titulosPHP.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/Indice/dirNAV/dirEstadisticas/titulosPHP.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Indice/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/Indice/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Indice/navPHP.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/Indice/navPHP.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reutilizar/nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/Reutilizar/nav.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Indice/dirIndex/bestiasMkPHP.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Indice/dirIndex/combatePHP.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Indice/dirIndex/deseoPHP.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Indice/dirIndex/dicePHP.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Indice/dirIndex/dificultadPHP.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Indice/dirIndex/distanciasPHP.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Indice/dirIndex/glosarioPHP.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Indice/dirIndex/itemsMkPHP.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Indice/dirIndex/poderesPHP.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Indice/dirIndex/reglasPHP.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Indice/dirIndex/tiendasPHP.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Indice/dirIndex/turnosPHP.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Indice/dirNAV/ARQUETIPOS.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Indice/dirNAV/CALCULADORAS.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Indice/dirNAV/ESTADISTICAS.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Indice/dirNAV/IMG.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Indice/dirNAV/MUNDOS.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Indice/dirNAV/POKEMONS.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Indice/dirNAV/RULETAS.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Indice/dirNAV/STANDS.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Indice/dirNAV/TECNICAS.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Indice/dirNAV/dirArquetipos/bullethellPHP.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Indice/dirNAV/dirArquetipos/elementosPHP.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Indice/dirNAV/dirArquetipos/forcePHP.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Indice/dirNAV/dirArquetipos/magoPHP.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Indice/dirNAV/dirArquetipos/psiquicosPHP.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Indice/dirNAV/dirArquetipos/quirksPHP.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Indice/dirNAV/dirEstadisticas/statsPHP.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Indice/dirNAV/dirEstadisticas/titulosPHP.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Indice/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Indice/navPHP.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Reutilizar/nav.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +61,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="D:/Users/zgtal/gitClone" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\xampp\HTML\DiceGameDRol\public" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -162,7 +167,21 @@
       <option name="project" value="LOCAL" />
       <updated>1642995692538</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="pasar de carpeta">
+      <created>1642997801611</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1642997801611</updated>
+    </task>
+    <task id="LOCAL-00015" summary="pasar de carpeta">
+      <created>1642997852952</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1642997852952</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,6 +203,7 @@
     <MESSAGE value="delete gitignore falso" />
     <MESSAGE value="carpeta /Indice a /docs" />
     <MESSAGE value="carpeta /docs a /Indice" />
-    <option name="LAST_COMMIT_MESSAGE" value="carpeta /docs a /Indice" />
+    <MESSAGE value="pasar de carpeta" />
+    <option name="LAST_COMMIT_MESSAGE" value="pasar de carpeta" />
   </component>
 </project>
