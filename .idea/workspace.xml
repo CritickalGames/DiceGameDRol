@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00d5db73-8771-4119-a7e0-fa4b2b7948a9" name="Changes" comment="#descripción{&#10;overflow: hidden;&#10;}">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Indice/dirIndex/combatePHP.php" beforeDir="false" afterPath="$PROJECT_DIR$/Indice/dirIndex/combatePHP.php" afterDir="false" />
-    </list>
+    <list default="true" id="00d5db73-8771-4119-a7e0-fa4b2b7948a9" name="Changes" comment="actualizar gitignore" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +56,21 @@
       <option name="project" value="LOCAL" />
       <updated>1642988238212</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="#descripción{&#10;overflow: hidden;&#10;}&#10;Borrar los &lt;br&gt;">
+      <created>1642989143570</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1642989143570</updated>
+    </task>
+    <task id="LOCAL-00005" summary="actualizar gitignore">
+      <created>1642989297810</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1642989297810</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,6 +87,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Actualizar .gitignor para que no agrege imagenes" />
     <MESSAGE value="#descripción{&#10;overflow: hidden;&#10;}" />
-    <option name="LAST_COMMIT_MESSAGE" value="#descripción{&#10;overflow: hidden;&#10;}" />
+    <MESSAGE value="#descripción{&#10;overflow: hidden;&#10;}&#10;Borrar los &lt;br&gt;" />
+    <MESSAGE value="actualizar gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="actualizar gitignore" />
   </component>
 </project>
