@@ -2,6 +2,7 @@ nav{
   text-align: center;
 }
 
+
 a:link{
   color: black;
 }
@@ -11,6 +12,8 @@ a:hover{
 a:visited{
   color: white;
 }
+
+
 a.menu:hover{
   margin: 2em auto;
   width: 700px;
@@ -57,7 +60,6 @@ div.body{
     overflow: hidden;
     width:    55%;
 }
-
 ul.style, li.style{
   list-style-type: none;
   float: left;
@@ -137,7 +139,6 @@ ul.style, li.style{
     -ms-hyphens: auto;
     hyphens: auto;
 }
-
 #lista{
   margin-left:  2em;
   margin-right: 1em;
