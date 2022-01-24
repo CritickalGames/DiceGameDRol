@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00d5db73-8771-4119-a7e0-fa4b2b7948a9" name="Changes" comment="vuelta a la normalidad">
+      <change afterPath="$PROJECT_DIR$/Indice/dirNAV/dirTecnicas/dominioControlEnergiaPHP.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Indice/dirNAV/dirTecnicas/respiraciónPHP.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indice/dirIndex/combatePHP.php" beforeDir="false" afterPath="$PROJECT_DIR$/Indice/dirIndex/combatePHP.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indice/dirNAV/TECNICAS.php" beforeDir="false" afterPath="$PROJECT_DIR$/Indice/dirNAV/TECNICAS.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reutilizar/nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/Reutilizar/nav.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reutilizar/navIndice.php" beforeDir="false" afterPath="$PROJECT_DIR$/Reutilizar/navIndice.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/css.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -162,7 +169,21 @@
       <option name="project" value="LOCAL" />
       <updated>1642998699558</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="vuelta a la normalidad">
+      <created>1642998998066</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1642998998066</updated>
+    </task>
+    <task id="LOCAL-00019" summary="vuelta a la normalidad">
+      <created>1642999024684</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1642999024684</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
