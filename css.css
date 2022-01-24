@@ -1,9 +1,6 @@
-
 nav{
   text-align: center;
 }
-
-.non{}
 
 a:link{
   color: black;
@@ -115,6 +112,7 @@ ul.style, li.style{
     hyphens: auto;
 
     width:    90%;
+    overflow: hidden;
 }
 #indice{
   margin-left: 17em;
