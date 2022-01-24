@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00d5db73-8771-4119-a7e0-fa4b2b7948a9" name="Changes" comment="actualizar gitignore" />
+    <list default="true" id="00d5db73-8771-4119-a7e0-fa4b2b7948a9" name="Changes" comment="delete gitignore falso">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642989297810</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="delete gitignore falso">
+      <created>1642989419645</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1642989419645</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,6 +98,7 @@
     <MESSAGE value="#descripción{&#10;overflow: hidden;&#10;}" />
     <MESSAGE value="#descripción{&#10;overflow: hidden;&#10;}&#10;Borrar los &lt;br&gt;" />
     <MESSAGE value="actualizar gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="actualizar gitignore" />
+    <MESSAGE value="delete gitignore falso" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete gitignore falso" />
   </component>
 </project>
