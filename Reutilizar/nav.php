@@ -1,7 +1,7 @@
 <nav class="menu">
 <hr>
     <!--REGLAS: combate; deseo; tiendas; crear poderes; 6666; distancias; -->
-    <a href="../../Index.php" class="menu">
+    <a href="../Index.php" class="menu">
         <img src="../../Reutilizar/Imagenes NAV/Rule Book.png">
         </a>
    

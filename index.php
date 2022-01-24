@@ -36,39 +36,39 @@
 
 	<!--Contenido-->
 	<?php 
-		include ('Indice/dirIndex/deseoPHP.php');       ?>
+		include ('Indice/dirIndex/deseoPHP.php');			?>
 	
 	<?php 
-		include ('Indice/dirIndex/reglasPHP.php');      ?>
+		include ('Indice/dirIndex/reglasPHP.php');			?>
 	
 	<?php  
-		include ('Indice/dirIndex/combatePHP.php');     ?>
+		include ('Indice/dirIndex/combatePHP.php');		?>
 	
 	<?php 
-		include ('Indice/dirIndex/poderesPHP.php');     ?>
+		include ('Indice/dirIndex/poderesPHP.php');		?>
 	
 	<?php 
-		include ('Indice/dirIndex/turnosPHP.php');      ?>
+		include ('Indice/dirIndex/turnosPHP.php');			?>
 	
 	<?php 
-		include ('Indice/dirIndex/tiendasPHP.php');     ?>
+		include ('Indice/dirIndex/tiendasPHP.php');		?>
 	
 	<?php 
-		include ('Indice/dirIndex/itemsMkPHP.php');     ?>
+		include ('Indice/dirIndex/itemsMkPHP.php');		?>
 	
 	<?php 
-		include ('Indice/dirIndex/dicePHP.php');        ?>
+		include ('Indice/dirIndex/dicePHP.php');			?>
 	
 	<?php 
-		include ('Indice/dirIndex/distanciasPHP.php');  ?>
+		include ('Indice/dirIndex/distanciasPHP.php');		?>
 		
 	<?php 
-		include ('Indice/dirIndex/dificultadPHP.php');  ?>
+		include ('Indice/dirIndex/dificultadPHP.php');		?>
 	
 	<?php 
-		include ('Indice/dirIndex/bestiasMkPHP.php');   ?>
+		include ('Indice/dirIndex/bestiasMkPHP.php');		?>
 	
 	<?php 
-		include ('Indice/dirIndex/glosarioPHP.php');    ?>
+		include ('Indice/dirIndex/glosarioPHP.php');		?>
 </body>
 </html>

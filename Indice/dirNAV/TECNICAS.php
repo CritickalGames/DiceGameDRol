@@ -16,19 +16,5 @@
         include ('../../Reutilizar/nav.php');
     ?>
 
-	<div id="indice">
-		<h2 align="center">Indice</h2>
-
-		<a href="#deseo"     >1 : Valores del DESEO          </a><br>
-
-	</div>
-
-    <!--Contenido-->
-    <?php
-   		include ('dirTecnicas/dominioControlEnergiaPHP.php');       ?>
-
-    <?php
-   		include ('dirTecnicas/respiraciónPHP.php');       ?>
-
 </body>
 </html>

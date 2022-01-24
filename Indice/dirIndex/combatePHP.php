@@ -3,7 +3,7 @@
 	<p>Todas las personas tienen una hoja de personaje que cuenta con: HP; +ATK; ATK%; +DEF/+DEA; DEF%; MOV.<br>[las cosas entre parentesis son ejemplos]</p>
 <!--------------------------------------------------------------------------->
 	<p class="li" id="descripción">
-	<img class="box" src="Reutilizar/Imagenes Reglas/HP.png" align="left">
+	<img class="box" src="../Reutilizar/Imagenes Reglas/HP.png" align="left">
 		Es tu salud<br>
 		Como buen humano hijo de buena madre, estás dotado de una gran salud, pero siempre hay gente más sana que vos. La vida total mínima es 100. Se considera que es 100%. Hay otros que pueden tener 200%p>
 	<p class="li">
@@ -11,7 +11,7 @@
 	</p>
 <!--------------------------------------------------------------------------->
 	<p class="li" id="descripción">
-	<img class="box" src="Reutilizar/Imagenes Reglas/HP.png" align="left">
+	<img class="box" src="../Reutilizar/Imagenes Reglas/HP.png" align="left">
 		+ATK Es tu precisión<br>
 		Si subes tu velocidad, puedes incrementar: Presión, Daño, Defensa por reacción.<br>
 		Es decir: si subes la velocidad de tus ataques o presición, consigues más +ATK, que te da más xD6 para impactar contra tu enemigo. Un humano normal tiene 2d6 de presión base.
@@ -33,7 +33,7 @@
 	</p>
 <!--------------------------------------------------------------------------->
 	<p class="li" id="descripción">
-	<img class="box" src="Reutilizar/Imagenes Reglas/HP.png" align="left">
+	<img class="box" src="../Reutilizar/Imagenes Reglas/HP.png" align="left">
 		ATK% es para que, cuando impactes con tu presición, causes daño<br>
 		De base tienes 2d6% y el daño es igual a lo que salga de resultado en esa tirada + los extras.
 	</p>
@@ -44,7 +44,7 @@
 	</p>
 <!--------------------------------------------------------------------------->
 	<p class="li" id="descripción">
-	<img class="box" src="Reutilizar/Imagenes Reglas/HP.png" align="left">
+	<img class="box" src="../Reutilizar/Imagenes Reglas/HP.png" align="left">
 		+DEF/+DEA es tu aguante o fácilidad de esquiva cuando te atacan. Son cosas distintas.<br>
 		Las defensas marciales(judo) son +DEF.<br>
 		Si en combate decides defender con defensa bruta, y salvas, el impacto no te hizo daño.<br>
@@ -61,7 +61,7 @@
 	</p>
 <!--------------------------------------------------------------------------->
 	<p class="li" id="descripción">
-	<img class="box" src="Reutilizar/Imagenes Reglas/HP.png" align="left">
+	<img class="box" src="../Reutilizar/Imagenes Reglas/HP.png" align="left">
 		DEF% es un tipo de defensa física.<br>
 		Cuando peleamos, es inevitable recibir un golpe o 2, pero si tu piel se corta con un papel, y te desangras con un pinchazo, significa que cualquier golpe te hará mucho daño, pero si tienes armadura, tu piel está curtida y no te desangras fácilmente, claro está que aguantarás un porcentaje mayor de daño.
 	</p>
@@ -74,7 +74,7 @@
 	</p>
 <!--------------------------------------------------------------------------->
 	<p class="li" id="descripción">
-	<img class="box" src="Reutilizar/Imagenes Reglas/HP.png" align="left">
+	<img class="box" src="../Reutilizar/Imagenes Reglas/HP.png" align="left">
 		Es tu velocidad de desplazamiento<br>
 		El mapa es muy grandes y no te puedes recorrer todo el mapa en un misero turno, así que tienes que gastar puntos de movimiento.
 		<br>En el mapa mundi cada casilla representa 5 reales.
