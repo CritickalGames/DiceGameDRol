@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00d5db73-8771-4119-a7e0-fa4b2b7948a9" name="Changes" comment="Actualizar .gitignor para que no agrege imagenes">
+    <list default="true" id="00d5db73-8771-4119-a7e0-fa4b2b7948a9" name="Changes" comment="#descripción{&#10;overflow: hidden;&#10;}">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/css.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Indice/dirIndex/combatePHP.php" beforeDir="false" afterPath="$PROJECT_DIR$/Indice/dirIndex/combatePHP.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +45,21 @@
       <option name="project" value="LOCAL" />
       <updated>1642987639460</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="#descripción{&#10;overflow: hidden;&#10;}">
+      <created>1642988183990</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1642988183990</updated>
+    </task>
+    <task id="LOCAL-00003" summary="#descripción{&#10;overflow: hidden;&#10;}">
+      <created>1642988238212</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1642988238212</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -61,6 +75,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Actualizar .gitignor para que no agrege imagenes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Actualizar .gitignor para que no agrege imagenes" />
+    <MESSAGE value="#descripción{&#10;overflow: hidden;&#10;}" />
+    <option name="LAST_COMMIT_MESSAGE" value="#descripción{&#10;overflow: hidden;&#10;}" />
   </component>
 </project>

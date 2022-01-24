@@ -5,9 +5,7 @@
 	<p class="li" id="descripción">
 	<img class="box" src="../Reutilizar/Imagenes Reglas/HP.png" align="left">
 		Es tu salud<br>
-		Como buen humano hijo de buena madre, estás dotado de una gran salud, pero siempre hay gente más sana que vos. La vida total mínima es 100. Se considera que es 100%. Hay otros que pueden tener 200%
-		<br><br>
-	</p>
+		Como buen humano hijo de buena madre, estás dotado de una gran salud, pero siempre hay gente más sana que vos. La vida total mínima es 100. Se considera que es 100%. Hay otros que pueden tener 200%p>
 	<p class="li">
 			<---->Recibir daño: HP.Actual[200%]-DAÑO[ATK%-(ATK%*(DEF%/100) )]
 	</p>
@@ -38,7 +36,6 @@
 	<img class="box" src="../Reutilizar/Imagenes Reglas/HP.png" align="left">
 		ATK% es para que, cuando impactes con tu presición, causes daño<br>
 		De base tienes 2d6% y el daño es igual a lo que salga de resultado en esa tirada + los extras.
-		<br><br><br>
 	</p>
 	<p class="li">
 			<--Si-->Impactasté.
@@ -81,6 +78,5 @@
 		Es tu velocidad de desplazamiento<br>
 		El mapa es muy grandes y no te puedes recorrer todo el mapa en un misero turno, así que tienes que gastar puntos de movimiento.
 		<br>En el mapa mundi cada casilla representa 5 reales.
-		<br><br>
 	</p>
 </div>
