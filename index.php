@@ -14,7 +14,7 @@
     <center><h1>Reglas del juego</h1></center>
     <center><h3>DICE GAME</h3></center>
 		
-	<?php include ('Reutilizar/nav.php');?><!--CREAR NAV DE TIENDAS-->
+	<?php include ('Reutilizar/navIndice.php');?><!--CREAR NAV DE TIENDAS-->
 	
 	<div id="indice">
 		<h2 align="center">Indice</h2>
