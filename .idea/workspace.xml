@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00d5db73-8771-4119-a7e0-fa4b2b7948a9" name="Changes" comment="vuelta a la normalidad">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-    </list>
+    <list default="true" id="00d5db73-8771-4119-a7e0-fa4b2b7948a9" name="Changes" comment="vuelta a la normalidad" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -186,6 +183,7 @@
     <MESSAGE value="carpeta /docs a /Indice" />
     <MESSAGE value="pasar de carpeta" />
     <MESSAGE value="vuelta a la normalidad" />
-    <option name="LAST_COMMIT_MESSAGE" value="vuelta a la normalidad" />
+    <MESSAGE value="vuelta a la normalidad 24/1" />
+    <option name="LAST_COMMIT_MESSAGE" value="vuelta a la normalidad 24/1" />
   </component>
 </project>
