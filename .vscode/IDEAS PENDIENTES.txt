@@ -1,3 +1,4 @@
+-------------------------SUBIR LA PÁGINA-----------------------------
 -Pedir página para adapatar a los pokémons
 -Adapatar a los pokémons
 --Cada nivel de STAND y Pokémon equivale a 2D
@@ -7,4 +8,11 @@
 -Armas
 -Culturas
 -Creación de fichas
--------------------------SUBIR LA PÁGINA-----------------------------
+-------------------------TAREAS-----------------------------
+-Hacer curso de juegos
+-Curso de mátematicas
+-Curso de Assambler
+-Curso de dibujo
+-Curso de base de datos
+-Curso de java
+-Programar

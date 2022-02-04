@@ -32,7 +32,7 @@
 		Es tu salud<br>
 		Como buen humano hijo de buena madre, estás dotado de una gran salud, pero siempre hay gente más sana que vos. La vida total mínima es 100. Se considera que es 100%. Hay otros que pueden tener 200%p>
 	<p class="li" id="dañar">
-			<---->Recibir daño: HP.Actual[200%]-DAÑO[ATK%+base-DEF%*]
+			<---->Recibir daño: HP.Actual[200%]-DAÑO[ATK%+base-DEF%]
 	</p>
 <!--------------------------------------------------------------------------->
 	<p class="li" id="descripción">
