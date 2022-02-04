@@ -115,11 +115,36 @@ ul.style, li.style{
 
     width:    90%;
     overflow: hidden;
+
+    justify-content: flex-end;
 }
 #indice{
   margin-left: 17em;
   width:    100%;
   width: 250px;
+
+  padding: 3px 10px;
+    border: PowderBlue 5px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+  
+  border: #912438 8px outset;
+  background: #c7324d;
+
+
+  -ms-word-break: break-all;
+     word-break: break-all;
+     word-break: break-word;
+
+  -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+}
+#indice_1{
+  margin: 1em auto;
+  width:    100%;
+  width: 150px;
 
   padding: 3px 10px;
     border: PowderBlue 5px;

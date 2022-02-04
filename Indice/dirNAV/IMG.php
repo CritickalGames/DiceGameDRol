@@ -15,6 +15,13 @@
     <?php
         include ('../../Reutilizar/nav.php');
     ?>
-
+<!--Contenido-->
+	<div class="body">
+		stand<br>
+		pokémon<br>
+		Calculadora<br>
+		Ruleta<br>
+		Tiendas<br>
+	</div>
 </body>
 </html>

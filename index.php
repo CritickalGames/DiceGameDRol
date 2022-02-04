@@ -42,7 +42,7 @@
 		include ('Indice/dirIndex/reglasPHP.php');			?>
 	
 	<?php  
-		include ('Indice/dirIndex/combatePHP.php');		?>
+		include ('Indice/dirIndex/accionesPHP.php');		?>
 	
 	<?php 
 		include ('Indice/dirIndex/poderesPHP.php');		?>
