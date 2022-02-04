@@ -32,7 +32,7 @@
 		Es tu salud<br>
 		Como buen humano hijo de buena madre, estás dotado de una gran salud, pero siempre hay gente más sana que vos. La vida total mínima es 100. Se considera que es 100%. Hay otros que pueden tener 200%p>
 	<p class="li" id="dañar">
-			<---->Recibir daño: HP.Actual[200%]-DAÑO[ATK%-(ATK%*(DEF%/100) )]
+			<---->Recibir daño: HP.Actual[200%]-DAÑO[ATK%+base-DEF%*]
 	</p>
 <!--------------------------------------------------------------------------->
 	<p class="li" id="descripción">
@@ -74,7 +74,7 @@
 	<p class="li">
 			<--Si-->Impactasté.
 			<br>
-			<---->Tiras ATK%[2d6%=5%] y haces DAÑO como lo dice en HP.
+			<---->Tiras ATK%[2d6%=5%+base] y haces DAÑO como lo dice en HP.
 	</p>
 <!--------------------------------------------------------------------------->
 	<p class="li" id="descripción">
@@ -106,9 +106,9 @@
 	<p class="li" id="defensa">
 			<--Si-->Te hacen daño
 			<br>
-			<---->Tiras DEF%[1d6=6%] + DEF%.BASE[10%] + EXTRAS%[0] => DEF%/100[16/100=0.16]
+			<---->Tiras DEF%[1d6=6%] + DEF%.BASE[10%] + EXTRAS%[0] => DEF%[16]
 			<br>
-			<---->Daño recibido= ATK%-(ATK%*0.16)
+			<---->Daño recibido= ATK%-16
 	</p>
 <!--------------------------------------------------------------------------->
 	<p class="li" id="descripción">
@@ -172,7 +172,7 @@
 <br>
 		Comparan: A sacó 2 éxitos y D sacó 2 éxito; Empatan.
 <br>Ambos jugadores<br>
-		Impacto= "ATK%-(ATK%*(DEF%/100))"= 2d6%-(2d6%*((2d6%+10%)/100))<br>
+		Impacto= "ATK%+10-DEF%"= 2d6%+10%-1d6%<br>
 		ATK% propio vs DEF% del adversario.
 		<br><br>
 		En caso de sólo ganar uno de los 2, sólo uno de los 2 impacta. En caso de ambos sacar pifia, ambos erran.

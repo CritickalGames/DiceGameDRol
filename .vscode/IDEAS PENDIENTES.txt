@@ -1,0 +1,10 @@
+-Pedir página para adapatar a los pokémons
+-Adapatar a los pokémons
+--Cada nivel de STAND y Pokémon equivale a 2D
+--Adaptar poderes de pokémons y stands
+-Poderes
+-Tecnicas
+-Armas
+-Culturas
+-Creación de fichas
+-------------------------SUBIR LA PÁGINA-----------------------------
