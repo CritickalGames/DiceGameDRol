@@ -14,7 +14,7 @@
     <center><h1>DICE GAME</h1></center>
     <?php include ('../../Reutilizar/nav.php');?>
 
-	<div id="indice">
+	<div class="forma" id="indice">
 		<h2 align="center">Indice</h2>
 	
 		<a href="#Lista">1: Hoja base de personaje		</a><br>

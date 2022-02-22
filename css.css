@@ -66,7 +66,7 @@ div.body{
   width:    55%;
 }
 
-.li{
+.li{/*todos los LI van dentro de un BODY*/
   /*Tamaño y posición del CONTENEDOR*/
   margin: 1em auto;
   width: 600px;
@@ -96,6 +96,52 @@ div.body{
   width:    80%;
 }
 
+.forma{
+    /*Hace que las palabras se rompan al llegar al final del CONTENEDOR*/
+  -ms-word-break: break-all;
+     word-break: break-all;
+     word-break: break-word;
+
+ /*Forma del CONTENEDOR*/
+  padding: 3px 10px;
+    border: PowderBlue 5px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+  /*Ni idea*/
+  -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+}
+
+#indice{
+  /*Tamaño y posición del CONTENEDOR*/
+  margin-top: 1.6em;
+  width:    50%;
+  width: 200px;
+
+  /*Color del CONTENEDOR*/
+  border: #912438 8px outset;
+  background: #c7324d;
+
+  /*Ajusta el borde derecho del CONTENEDOR*/
+    overflow: auto;
+    position: fixed;
+    height: auto;
+}
+
+#lista{
+  /*Tamaño y posición del CONTENEDOR*/
+  margin-left:  2em;
+  margin-right: 1em;
+  width: 100%;
+  width: 250px;
+  
+  /*Color del CONTENEDOR*/
+  border: #912438 8px outset;
+  background: #c7324d;
+}
 
 #descripción{
   /*Tamaño y posición del CONTENEDOR*/
@@ -130,90 +176,34 @@ div.body{
   /*Ajusta las imagenes dentro del CONTENEDOR*/
     justify-content: flex-end;
 }
-#indice{
-  /*Tamaño y posición del CONTENEDOR*/
-  margin-top: 1.6em;
-  width:    50%;
-  width: 150px;
 
-  /*Forma del CONTENEDOR*/
-  padding: 3px 10px;
-    border: PowderBlue 5px;
-    border-top-left-radius: 20px;
-    border-bottom-right-radius: 20px;
 
-  /*Color del CONTENEDOR*/
-  border: #912438 8px outset;
-  background: #c7324d;
-
-  /*Hace que las palabras se rompan al llegar al final del CONTENEDOR*/
-  -ms-word-break: break-all;
-     word-break: break-all;
-     word-break: break-word;
-
-  /*Ni idea*/
-  -webkit-hyphens: auto;
-    -moz-hyphens: auto;
-    -ms-hyphens: auto;
-    hyphens: auto;
-    
-  /*Ajusta el borde derecho del CONTENEDOR*/
-    overflow: auto;
-    position: fixed;
-    height: auto;
-}
+/** MUERTOS
 #indice_1{
-  /*Tamaño y posición del CONTENEDOR*/
+  /*Tamaño y posición del CONTENEDOR
   margin: 1em auto;
   width:    100%;
   width: 150px;
 
-  /*Forma del CONTENEDOR*/
+  /*Forma del CONTENEDOR
   padding: 3px 10px;
     border: PowderBlue 5px;
     border-top-left-radius: 20px;
     border-bottom-right-radius: 20px;
 
-  /*Color del CONTENEDOR*/
+  /*Color del CONTENEDOR
   border: #912438 8px outset;
   background: #c7324d;
 
-  /*Hace que las palabras se rompan al llegar al final del CONTENEDOR*/
+  /*Hace que las palabras se rompan al llegar al final del CONTENEDOR
   -ms-word-break: break-all;
      word-break: break-all;
      word-break: break-word;
 
-  /*Ni idea*/
+  /*Ni idea
   -webkit-hyphens: auto;
     -moz-hyphens: auto;
     -ms-hyphens: auto;
     hyphens: auto;
 }
-#lista{
-  /*Tamaño y posición del CONTENEDOR*/
-  margin-left:  2em;
-  margin-right: 1em;
-  width: 100%;
-  width: 250px;
-
-  /*Forma del CONTENEDOR*/
-  padding: 3px 10px;
-    border: PowderBlue 5px;
-    border-top-left-radius: 20px;
-    border-bottom-right-radius: 20px;
-  
-  /*Color del CONTENEDOR*/
-  border: #912438 8px outset;
-  background: #c7324d;
-
-  /*Hace que las palabras se rompan al llegar al final del CONTENEDOR*/
-  -ms-word-break: break-all;
-     word-break: break-all;
-     word-break: break-word;
-
-  /*Ni idea*/
-  -webkit-hyphens: auto;
-    -moz-hyphens: auto;
-    -ms-hyphens: auto;
-    hyphens: auto;
-}
+**/

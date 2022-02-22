@@ -3,7 +3,7 @@
 <head>
     <!--<script  src="reCodigo.js"></script>-->
 
-	<link rel="stylesheet icon" type="text/css" href="Icono.ico"><!--ICONO FALTANTE EN TODAS LAS PAGINAS-->
+	<link rel="shortcut icon" href="Reutilizar/Icono.ico"><!--ICONO FALTANTE EN TODAS LAS PAGINAS-->
 	<link rel="stylesheet" type="text/css" href="css.css">
 
 	<meta charset="utf-8">
@@ -16,7 +16,7 @@
 		
 	<?php include ('Reutilizar/navIndice.php');?><!--CREAR NAV DE TIENDAS-->
 	
-	<div id="indice">
+	<div class="forma" id="indice">
 		<h2 align="center">Indice</h2>
 	
 		<a href="#deseo"     >1 : Valores del DESEO          </a><br>

@@ -1,4 +1,4 @@
-<nav class="menu">
+<nav>
 <hr>
     <!--REGLAS: combate; deseo; tiendas; crear poderes; 6666; distancias; -->
     <a href="Index.php" class="menu">
